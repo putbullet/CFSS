@@ -1,6 +1,6 @@
-# CODSOFT Python Projects
+# CODSOFT Python Projects 🚀
 
-## Internship Project Overview
+## Internship Project Overview ⚙️
 
 This repository contains the Python projects I'll be working on during my internship at CODSOFT. Below are the tasks I'll be completing:
 
@@ -22,7 +22,6 @@ Technical details for the Python projects:
   
 - **Editors Used**: Visual Studio, Vim
 
-Prepare yourself with the technical setup required for your Python projects! 🚀⚙️
 
 ---
 ## Author
